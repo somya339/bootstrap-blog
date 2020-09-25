@@ -3,7 +3,7 @@ body{
     padding: 0;
 }
 .lightblue {
-	background-color: lightseagreen;
+	background-color: black;
 }
 .social-bar {
 	text-align: right;
@@ -15,7 +15,7 @@ body{
     font-family: 'Patua One',cursive;
 }
 .bcolor{
-    background-color: aliceblue;
+    background-color: pink;
 }
 .border-2 {
 	border: 1px dotted lightgray;
